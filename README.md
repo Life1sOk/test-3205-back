@@ -1,7 +1,7 @@
 ## Задание:
 
-[Front](https://github.com/Life1sOk/test-3205-front)
-[Back](https://github.com/Life1sOk/test-3205-back)
+- [Ссылка на Front](https://github.com/Life1sOk/test-3205-front)
+- [Ссылка на Back](https://github.com/Life1sOk/test-3205-back)
 
 > Напишите приложение с одной страницей, на котором находится форма с двумя полями
 > email (обязательное) и number (опциональное)
